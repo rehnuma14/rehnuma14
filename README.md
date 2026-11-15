@@ -35,5 +35,5 @@ Computer Science & Engineering undergraduate at **Premier University, Chattogram
 
 ### 📫 Connect with Me
 
-- **LinkedIn:** [Add your LinkedIn URL]
-- **Email:** [Add your preferred contact email]
+- **LinkedIn:** [https://www.linkedin.com/in/reh-nu-ma/]
+- **Email:** [rehnuma.14.11@gmail.com]
