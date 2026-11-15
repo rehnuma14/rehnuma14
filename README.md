@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rehnuma Ahmed 👋
 
-<!--
-**rehnuma14/rehnuma14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering undergraduate at **Premier University, Chattogram**, building NLP-powered research tools and Android applications.
 
-Here are some ideas to get you started:
+- 🔭 Currently developing **upresearchLens** — an NLP & Streamlit platform for evaluating research hypothesis novelty and domain feasibility
+- 🌱 Exploring **Bangla NLP**, **information retrieval**, and **modern Android architecture (Kotlin & Jetpack Compose)**
+- 👩‍💻 **Vice Chair**, IEEE Premier University Student Branch Women in Engineering (WIE) Affinity Group
+- ⚡ **Student Branch Ambassador**, IEEEXtreme 20.0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, Kotlin
+- **ML & Data:** scikit-learn, pandas, TF-IDF / Cosine Similarity, Streamlit
+- **Mobile & Cloud:** Android Studio, Jetpack Compose, Retrofit, Firebase
+- **Tools:** Git, GitHub
+
+---
+
+### 🚀 Featured Work
+
+- **upresearchLens** — Evaluates research hypothesis novelty using TF-IDF similarity across Google Scholar & ACL Anthology datasets with Google Trends fallback visualization.
+- **GrameenSetu** — Farm-to-business agricultural marketplace application built for cloud deployment.
+
+---
+
+### 🏆 Leadership & Community
+
+- **Vice Chair** (prev. Activity Coordinator), IEEE Premier University Student Branch WIE Affinity Group
+- **Organizer**, *HerTech Hustle* (Iconclave 2026) & IEEE Education Week 2026 NextGen Learning Series
+- **Participant**, Raising Voices Cohort 1 (Team Aparajita, supported by BYLC)
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [Add your LinkedIn URL]
+- **Email:** [Add your preferred contact email]
